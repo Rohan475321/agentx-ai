@@ -57,4 +57,4 @@ if st.button("🚀 Run Agent"):
 
 # ---- FOOTER ----
 st.markdown("---")
-st.markdown("<p style='text-align:center; color: gray;'>Built with ❤️ using FastAPI + Gemini + Streamlit</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color: gray;'></p>", unsafe_allow_html=True)
