@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
 
+st.image("logo.png", width=120)
 # ---- PAGE CONFIG ----
 st.set_page_config(page_title="AgentX AI", page_icon="🤖", layout="centered")
 
